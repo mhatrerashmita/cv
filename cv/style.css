@@ -1,0 +1,17 @@
+img{
+    width: 150px;
+    color: #54dede;
+    border-radius: 100px;
+
+}
+h1,h3{
+    color: #436868;
+}
+body{
+    background: rgb(238,174,202);
+background: -moz-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,233,222,1) 100%);
+background: -webkit-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,233,222,1) 100%);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,233,222,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#eeaeca",endColorstr="#94e9de",GradientType=1);
+   
+}
